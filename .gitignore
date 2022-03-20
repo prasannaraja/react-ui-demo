@@ -1,1 +1,5 @@
 core/dist/
+core/dist/index.d.ts
+core/dist/index.js
+core/dist/services/index.d.ts
+core/dist/services/index.js
